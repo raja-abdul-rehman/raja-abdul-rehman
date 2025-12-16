@@ -87,14 +87,13 @@ An AI-powered platform to help students and fresh graduates generate CVs, prepar
 ![Snake animation](https://github.com/raja-abdul-rehman/raja-abdul-rehman/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=raja-abdul-rehman\&theme=tokyonight\&no-frame=true\&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=raja-abdul-rehman&theme=tokyonight&no-frame=true&margin-w=10)
 
 </div>
 
