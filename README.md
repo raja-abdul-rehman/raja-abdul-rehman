@@ -36,7 +36,7 @@ I'm a Computer Science graduate and full-stack developer specializing in AI-powe
 
 **My goal:** To grow from building AI-powered applications into designing scalable, reliable intelligent systems that solve meaningful real-world problems.
 
-🌐 [Explore My Portfolio](https://raja-abdulrehman-portfolio-six-swart-54.vercel.app/) · 💼 [Connect on LinkedIn]([https://www.linkedin.com/in/raja-abdur-rehman-8939b9296](https://www.linkedin.com/in/raja-abdul-rehman-8939b9296/))
+🌐 [Explore My Portfolio](https://raja-abdulrehman-portfolio-six-swart-54.vercel.app/) · 💼 [Connect on LinkedIn](https://www.linkedin.com/in/raja-abdul-rehman-8939b9296/)
 
 ## 🛠 Tech Stack
 
