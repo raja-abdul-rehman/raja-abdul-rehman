@@ -15,6 +15,29 @@
 
 ---
 
+## 🤖 AI Automation & Intelligent Systems
+
+**Building intelligent systems that connect AI, automation, and full-stack engineering.**
+
+I'm a Computer Science graduate and full-stack developer specializing in AI-powered workflows, intelligent agents, and modern web applications. I combine **Next.js, Python, Node.js, n8n, and LLM APIs** to build practical solutions that reduce repetitive work and simplify business operations.
+
+### 🚀 Featured AI Projects
+
+| Project | Technologies | What It Does |
+|---|---|---|
+| 🤖 **AI Lead Qualification Agent (Demo)** | n8n, OpenAI, HubSpot | Automates lead qualification and CRM workflows |
+| 📩 **AI Email Triage & Reply Drafts (Demo)** | n8n, Gmail, GPT | Classifies emails and prepares AI-assisted reply drafts |
+| 💬 **Conversational AI Booking Workflow** | GoHighLevel, AI Automation | Supports lead qualification and appointment booking |
+| 🌐 **AI Job Assistant (In Progress)** | Next.js, AI APIs, JavaScript | Helps job seekers with CV preparation and interview readiness |
+
+### 🎯 Engineering Interests
+
+`AI Agents` · `LLM Integration` · `Workflow Automation` · `Full-Stack Development` · `Intelligent Web Applications`
+
+**My goal:** To grow from building AI-powered applications into designing scalable, reliable intelligent systems that solve meaningful real-world problems.
+
+🌐 [Explore My Portfolio](https://raja-abdulrehman-portfolio-six-swart-54.vercel.app/) · 💼 [Connect on LinkedIn](https://www.linkedin.com/in/raja-abdur-rehman-8939b9296)
+
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
